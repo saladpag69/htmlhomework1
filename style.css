@@ -1,0 +1,107 @@
+h1 {
+    color: rgb(15, 25, 114);
+    font-size: 40px;
+    text-align: center;
+    margin-top: 40px;
+ 
+    
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin: auto;
+}
+
+a {
+    display: inline;
+    padding: 8px;
+    background-color: #033177;
+    color: #e4dfdf;
+    border-radius: 10%;
+  }
+
+p   {
+    text-indent: 40px;
+    font-size: 18px;
+    margin-top: 20px;
+ 
+    
+   
+}
+
+
+
+li {
+    font-size: 18px;
+   
+}
+
+.datainfo {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #033177;
+    color: #e4dfdf;
+    
+  
+}
+.info {
+    margin: auto;
+
+
+    
+    
+}
+
+.registro {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+
+.dataform{
+    display: flex;
+    justify-content:  space-between;
+}
+
+.submit{
+    display: flex;
+    justify-content: center;
+}
+
+.row{
+    align-items: self-end;
+}
+.container{
+    display: flex;
+    justify-content:  space-around;
+}
+
+.container button{
+     border-radius: 5%;
+     width: 100px;
+     background-color: #e4dfdf;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+
+  
+
+
+  .card{
+    
+    margin: 1%;
+    padding: 20px;
+    color:wheat;
+  }
+  
